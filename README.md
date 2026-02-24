@@ -2,7 +2,7 @@
 - 👀 I’m interested in innovating, research. 
 - 🌱 I’m currently learning AI, PyTorch, Tensorflow.
 - 💞️ I’m looking to collaborate on Machine Learning, Deep learning.
-- 📫 You can reach me via mail @ khanmdayan0@gmail.com, this is not my official ID but I check it regularly. You can mail for any doubts regarding the projects I uploaded.
+- 📫 You can reach me via mail @ khanmdayan0@gmail.com.  You can mail for any doubts regarding the projects I uploaded.
 
 <!---
 KhanMdAyan/KhanMdAyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
